@@ -37,12 +37,12 @@ Sempre fui apaixonado por tecnologia e estou sempre em busca de crescer e aprend
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/LuisMendonca?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/LuisMendonca)
-[![GitHub User's stars](https://img.shields.io/github/stars/LuisMendonca?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/LuisMendonca)
-[![Profile Views](https://komarev.com/ghpvc/?username=LuisMendonca&style=for-the-badge&color=blueviolet)](https://github.com/LuisMendonca)
+[![GitHub followers](https://img.shields.io/github/followers/luisgustavm?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/luisgustavm)
+[![GitHub User's stars](https://img.shields.io/github/stars/luisgustavm?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/luisgustavm)
+[![Profile Views](https://komarev.com/ghpvc/?username=luisgustavm&style=for-the-badge&color=blueviolet)](https://github.com/luisgustavm)
 
 </div>
-  <img height="180em" src="https://streak-stats.demolab.com?user=LuisMendonca&theme=tokyonight&hide_border=false"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=luisgustavm&theme=tokyonight&hide_border=false"/>
 </div>
 
 ---
