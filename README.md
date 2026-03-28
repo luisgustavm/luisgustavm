@@ -3,9 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=200&section=header&text=Luis%20Mendonca&fontSize=50&fontColor=fff&fontAlignY=35&desc=Desenvolvedor%20em%20Formação&descAlignY=55&descSize=20" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891b2&center=true&vCenter=true&width=500&lines=Técnico+em+Desenvolvimento+de+Sistemas;Estudante+de+Backend+Developer;Apaixonado+por+Tecnologia+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891b2&center=true&vCenter=true&width=500&lines=Tecnico+em+Desenvolvimento+de+Sistemas;Estudante+de+Backend+Developer;Apaixonado+por+Tecnologia+🚀" alt="Typing SVG" />
 </p>
-
 ---
 
 ### 🌎 Sobre mim
