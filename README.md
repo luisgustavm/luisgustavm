@@ -71,7 +71,7 @@ Sempre fui apaixonado por tecnologia e estou sempre em busca de crescer e aprend
 
 ---
 
-<img src="https://raw.githubusercontent.com/LuisMendonca/LuisMendonca/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/luisgustavm/luisgustavm/output/github-contribution-grid-snake-dark.svg" />/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer" />
 
