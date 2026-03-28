@@ -42,9 +42,6 @@ Sempre fui apaixonado por tecnologia e estou sempre em busca de crescer e aprend
 [![Profile Views](https://komarev.com/ghpvc/?username=LuisMendonca&style=for-the-badge&color=blueviolet)](https://github.com/LuisMendonca)
 
 </div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisgustavm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=LuisMendonca&theme=tokyonight&hide_border=false"/>
 </div>
 
@@ -54,13 +51,13 @@ Sempre fui apaixonado por tecnologia e estou sempre em busca de crescer e aprend
 
 <div align="center">
   <a href="mailto:lg3666745@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&label=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&label=%20&style=for-the-badge" height="35" />
   </a>
   <a href="https://wa.me/5514991328229">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&color=25D366&logoColor=white&label=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&color=25D366&logoColor=white&label=%20&style=for-the-badge" height="35" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&label=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&label=%20&style=for-the-badge" height="35" />
   </a>
 </div>
 
